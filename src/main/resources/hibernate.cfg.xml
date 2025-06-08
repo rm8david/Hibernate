@@ -5,7 +5,7 @@
         <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
         <property name="connection.url">jdbc:mysql://127.0.0.1/libreria</property>
         <property name="connection.username">root</property>
-        <property name="connection.password">lolazo11</property>
+        <property name="connection.password"></property>
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
         <mapping class="model.Autor"/>
         <mapping class="model.Editorial"/>
